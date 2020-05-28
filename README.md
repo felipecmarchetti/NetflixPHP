@@ -51,8 +51,8 @@ publico que procura praticidade e uma plataforma menos específica em questão d
   
  Tela de filme/série: 
  ![Screenshot](https://i.ibb.co/FYYZFbr/Tela-Serie-Esp.png)
- Tela que o usuário encontrará caso acesse alguma série ou filme em específico
- Nela podemos ver todos os episódios disponíveis para essa série, e caso for filme, podemos ver sugestões de filmes da mesma categoria
+ Tela que o usuário encontrará caso acesse alguma série ou filme em específico,
+ nela podemos ver todos os episódios disponíveis para essa série, e caso for filme, podemos ver sugestões de filmes da mesma categoria
   
  Tela para assistir:
  ![Screenshot](https://i.ibb.co/SRmMQvM/Tela-Assistir.png)
